@@ -1,6 +1,6 @@
-### Compile
-
 http://pmt.sourceforge.net/pngcrush
+
+### Compile
 
 ```
 make
