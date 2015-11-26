@@ -4,8 +4,7 @@ http://pmt.sourceforge.net/pngcrush
 
 ```
 make
-``
-
+```
 
 ### Run
 
